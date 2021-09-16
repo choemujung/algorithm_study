@@ -8,7 +8,7 @@ class ListNode:
         self.next = next
 
 class Solution:
-    def isPalindrome(self, head: Optional[ListNode]) -> bool:  # 못품
+    #def isPalindrome(self, head: Optional[ListNode]) -> bool:  # 못품
 
     def solution_01(self, head: Optional[ListNode]) -> bool:
         q: List = []
