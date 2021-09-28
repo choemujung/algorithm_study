@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed03e6a9-5c08-4f7a-8f3a-ec662c1abece" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/q_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q_17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
